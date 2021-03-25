@@ -1,0 +1,54 @@
+.s {
+  position: relative;
+  top: 78;
+  left: 132;
+  width: 50;
+  height: 50;
+  background: #fe5f55;
+  border-radius: 50%;
+}
+.s2 {
+  top: 28;
+  left: 201;
+}
+.e {
+  z-index: 1;
+  position: relative;
+  top: 10;
+  left: 10;
+  width: 30;
+  height: 30;
+  background: #fff1c1;
+  border-radius: 50%;
+}
+.e2 {
+  top: -20;
+  left: 79;
+}
+.d {
+  position: relative;
+  top: 9;
+  left: 10;
+  width: 10;
+  height: 10;
+  background: #293462;
+  border-radius: 50%;
+}
+#f {
+  position: relative;
+  top: 1;
+  left: 118;
+  width: 150;
+  height: 102;
+  background: radial-gradient(140% 100% at 50% 20%, #fe5f55 50%, #a64942 50%);
+  border-radius: 38%/55%;
+}
+.nd {
+  top: 51;
+  left: 58;
+  background: #293462;
+}
+.n2 {
+  top: 41;
+  left: 78;
+}
